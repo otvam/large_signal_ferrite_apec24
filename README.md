@@ -11,7 +11,7 @@ This code simulates the **magnetic-dielectric effects** in a infinitely long **c
 * The (average) flux density through the cross-section is imposed (excitation).
 * The material parameters can be amplitude-dependent (locally linearized).
 
-Two different *solvers* are available:
+Two different **solvers** are available:
 * **Quasi-static** approximation (no wave propagation and spatially independent material parameters).
 * **Full wave** solution (with wave propagation and spatially dependent material parameters).
 
