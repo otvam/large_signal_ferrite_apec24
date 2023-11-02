@@ -25,6 +25,7 @@ Two different **solvers** are available:
 
 * [N87_eps_small](dataset/N87_eps_small) - EPCOS TDK N87 - Small-Signal Permitivitty
 * [N87_eps_large](dataset/N87_eps_large) - EPCOS TDK N87 - Large-Signal Permitivitty
+* [N87_eps_temperature](dataset/N87_eps_temperature) - EPCOS TDK N87 - Temperature Permitivitty
 * [N87_mu_small](dataset/N87_mu_small) - EPCOS TDK N87 - Small-Signal Permeability
 * [N87_mu_large](dataset/N87_mu_large) - EPCOS TDK N87 - Large-Signal Permeability
 
