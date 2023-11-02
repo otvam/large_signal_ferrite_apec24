@@ -10,6 +10,7 @@ function [problem, param, mat, s_ref] = get_param(f, B_src, A)
 %        problem (struct): description of the problem (frequency, flux density, radius)
 %        param (struct): description of the solver numerical parameters and tolerances
 %        mat (struct): description of the material parameters (permeability, permitivitty)
+%        s_ref (float): complex power without dielectric effects
 %
 %    Thomas Guillod - Dartmouth College.
 %    2023 - MIT License.
