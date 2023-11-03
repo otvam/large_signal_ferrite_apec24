@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the **dataset** and **code** related to the following **paper**:
+This repository contains the **datasets** and **code** related to the following **paper**:
 * **Characterization and Impact of Large-Signal Dielectric Properties in MnZn Ferrites**
 * **Thomas Guillod, William V. R. Roberts, and Charles R. Sullivan**
 * **IEEE APEC 2024**
