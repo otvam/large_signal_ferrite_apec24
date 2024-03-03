@@ -18,6 +18,7 @@ Two different **solvers** are available:
 ## Main Files
 
 * [paper.pdf](paper.pdf) - PDF of the paper (not under MIT License) 
+* [slides.pdf](slides.pdf) - PDF of the slides (not under MIT License) 
 * [get_param.m](get_param.m) - Definition of the solver parameters
 * [run_single.m](run_single.m) - Solve the electromagnetic problem in a core with a given cross-section 
 * [run_sweep.m](run_sweep.m) - Solve the electromagnetic problem in cores with different cross-sections
