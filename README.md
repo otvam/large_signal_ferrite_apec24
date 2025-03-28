@@ -5,6 +5,7 @@
 This repository contains the **datasets** and **code** related to the following **paper**:
 * **Characterization and Impact of Large-Signal Dielectric Properties in MnZn Ferrites**
 * **Thomas Guillod, William V. R. Roberts, and Charles R. Sullivan**
+* **https://doi.org/10.1109/APEC48139.2024.10509366**
 * **IEEE APEC 2024**
 
 This code simulates the **magnetic-dielectric effects** in a infinitely long **cylindrical core**:
